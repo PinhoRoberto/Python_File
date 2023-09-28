@@ -1,4 +1,4 @@
-print({':=^40}'.format (' lOJAS PINHO '))
+print('{:=^40}'.format (' lOJAS PINHO '))
 preco = float(input('preço das compras: R$ '))
 print(''' Formas de pagamento
 [1] à vista dinheiro / cheque
