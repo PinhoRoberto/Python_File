@@ -1,0 +1,4 @@
+# Python_File
+
+O presente codigo elabora o programa que calcula o valor a ser pago por um produto considerando o seu preço normal e a sua condição de pagamento, se o pagamento vai ser em dinheiro ou cheque à vista cartão à vista em até duas vezes no cartão ou três vezes ou mais no cartão então você tem várias possibilidades bem perto daquilo que é praticado dentro das lojas e tudo mais então é uma situação bem próxima da natural então é um exercício muito bom de se fazer : 
+Se pagou à vista em dinheiro têm 10% de desconto ,  se pagou à vista no cartão 5% de desconto porque o cartão tem aquela taxa extra,  em até duas vezes no cartão não vai ter juros e se for três vezes ou mais no cartão o sistema vai perguntar quantas parcelas e vai calcular 20% de juros em cima disso muito próximo também do que é praticado no dia a dia 
